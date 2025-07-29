@@ -8,7 +8,7 @@ if "32bit" in bit:
     print(" tool not supported ")
 elif "64bit" in bit:
     os.system("clear")
-    print(" welcome .... ")
+    print(" Welcome Alone Tool .... ")
     import random64
 else:
     os.system("clear")
