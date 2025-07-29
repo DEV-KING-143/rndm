@@ -9,7 +9,7 @@ if "32bit" in bit:
 elif "64bit" in bit:
     os.system("clear")
     print(" welcome .... ")
-    import rndm64
+    import random64
 else:
     os.system("clear")
     print(" unknown arch ")
