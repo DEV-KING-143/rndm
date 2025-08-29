@@ -9,7 +9,7 @@ if "32bit" in bit:
 elif "64bit" in bit:
     os.system("clear")
     print(" Welcome Alone Tool .... ")
-    import random64
+    import unknown64
 else:
     os.system("clear")
     print(" unknown arch ")
