@@ -9,8 +9,9 @@ if "32bit" in bit:
 elif "64bit" in bit:
     os.system("clear")
     print(" Welcome Alone Tool .... ")
-    import unknown64
+    import sex64
 else:
     os.system("clear")
     print(" unknown arch ")
     sys.exit()
+    
